@@ -29,6 +29,9 @@
     <Text Include="data.txt">
       <Filter>Исходные файлы</Filter>
     </Text>
+    <Text Include="input.txt">
+      <Filter>Исходные файлы</Filter>
+    </Text>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="book_subscription.h">
